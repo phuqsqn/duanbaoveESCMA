@@ -47,6 +47,16 @@ index.html
 
 ![image](https://user-images.githubusercontent.com/126417188/221433797-ad277e2a-aeae-4b84-bf01-32cc1a2938e3.png)
 
+#Triển Khai 
+
+- Đã hoàn thiện chạy thử và kiểm lỗi thành công , viết tài liệu thực hiện .
+
+#Kết Luận :
+
+- Thực hiện dự án đẹp và phù hợp  với các đối tượng người dùng , lứa tuổi giúp người dùng dễ dàng tiếp cận các sản phẩm , cảm thấy hài lòng  với web và đặt hàng nhìu hơn   .
+
+- Về phần admin . giúp quản lý các danh mục , sản phẩm tốt hơn  . cập nhập hàng hóa theo chỉ định , đầy đủ các chức năng cần thiết , giúp admin có thế pk số lượng mua và bán .
+
 
 
 
