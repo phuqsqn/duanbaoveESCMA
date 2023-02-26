@@ -24,5 +24,6 @@ Nội Dung:
 ## Dữ Liệu Lưu Trữ Firebace
 - Mô Tả:
 
+<img src="https://![333882213_578557670990532_3219628389027638169_n](https://user-images.githubusercontent.com/126417188/221432684-5d560473-15fd-4592-adb1-c3428ccc4b39.png)" alt="..." width="250" />
 <img src="![333882213_578557670990532_3219628389027638169_n](https://user-images.githubusercontent.com/126417188/221432684-5d560473-15fd-4592-adb1-c3428ccc4b39.png)" alt="..." width="250" height="200" />
 
